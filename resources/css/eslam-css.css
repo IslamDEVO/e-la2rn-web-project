@@ -1,0 +1,417 @@
+body {
+	background-color: #efe8e8;
+}
+#container {
+	width: 960px;
+	margin: 10px auto;
+	background-color: #ffffff;
+}
+#header {
+	height: 300px;
+}
+#header #header-img {
+	height: 100%;
+	background-image: url("../img/logo.png");
+	background-repeat: no-repeat;
+	background-size: 960px 300px;
+}
+#header #navigation-bar {
+    opacity: .4;
+    width: 960px;
+    height: 50px;
+    background-color: #fffdfd;
+    position: fixed;
+    overflow: hidden;
+    top: 10px;
+    z-index: 10;
+}
+#header #navigation-bar:hover {
+    opacity: 1;
+}
+#content .contact-us, #content .contact-info, #content .social-media {
+	float: left;
+	opacity: .5;
+}
+#content .contact-us:hover, #content .contact-info:hover, #content .social-media:hover {
+	background-color: #ebefba; 
+	opacity: 1;
+}
+#content .contact-us {
+	width: 60%;
+}
+#content .contact-info, #content .social-media {
+	width: 40%;
+}
+#content .contact-us fieldset {
+	border-color: #b1b114;
+}
+#content .contact-us legend {
+	font-size: 30px;
+	margin: 0px auto;
+}
+#content .contact-us p {
+	font-size: 18px;
+}
+#content .contact-us input {
+	border-radius: 5px;
+	border-color: #847b16;
+	font-size: 15px;
+	margin: 10px;
+	padding: 5px;
+	width: 80%;
+	height: 40px;
+
+}
+#content .contact-us input:hover {
+	box-shadow: 0px 8px 18px 0px;
+	color: green;
+	background-color: #ffffff;
+}
+#content .contact-us textarea {
+	border-color: #847b16;
+	border-radius: 5px;
+	font-size: 15px;
+	margin: 10px;
+	padding: 5px;
+	width: 80%;
+}
+#content .contact-info {
+	margin-top: 50px;
+}
+#content .contact-info div {
+	margin: 20px;
+	padding: 10px;
+}
+#content .contact-info span {
+	color: #c1b202;
+	font-size: 18px;
+	margin: 0px;
+	padding: 0px;
+	margin-left: 10px;
+}
+#content .contact-info h3 {
+	font-size: 25px;
+	margin: 0px;
+	padding: 0px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+#content .social-media h3 {
+	font-size: 25px;
+	margin-bottom: 30px;
+}
+#content .social-media ul {
+	margin: 20px;
+	padding: 20px;
+	list-style-type: none;
+}
+#content .social-media li {
+	display: inline;
+	padding: 15px;
+}
+#footer {
+	clear: both;
+	height: 300px;
+	padding-top: 20px;
+}
+#footer .footer-info {
+	height: 80%;
+	background-color: #d0cece;
+}
+#footer .footer-copyright {
+	height: 20%;
+	background-color: #848181;
+}
+#footer .footer-info .about-us, #footer .footer-info .our-service, #footer .footer-info .contact-info {
+	width: 30%;
+	margin: 0px;
+	margin-left: 20px;
+	padding: 0px;
+	float: left;
+	height: 100%;
+}
+#footer .footer-info .about-us h3, #footer .footer-info .our-service h3, #footer .footer-info .contact-info h3 {
+	margin: 20px;
+	display: inline-block;
+	border-bottom: 1px solid #1d1313;
+}
+#footer .footer-info .about-us span.title {
+	font-size: 20px;
+}
+#footer .footer-info .our-service span.service {
+	font-size: 20px;
+}
+#footer .footer-info .contact-info {
+	font-size: 18px;
+}
+/*	Eslam	Start Menu	*/
+span#container-of-menu ul {
+	margin: 0px;
+	padding: 0px;
+}
+span#container-of-menu ul li {
+	display: inline-block;
+	padding: 16px;
+	background-color: #ecebeb;
+	border-radius: 10px;
+}
+span#container-of-menu ul li:hover {
+    background-color: #daead3;
+}
+span#container-of-menu ul>li>a {
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	color: #5d5151;
+}
+span#container-of-menu {
+	height: 100%;
+	float: right;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+}
+/*	Eslam	End Menu*/
+
+/*	Eslam	Start About*/
+
+.center-intro {
+	background-color: #f7f7f7;
+	width: 100%;
+	height: 250px;
+	margin: 0px;
+	padding: 0px;
+}
+.center-intro h1 {
+	padding-top: 20px;
+}
+.center-intro p {
+	width: 50%;
+	font-size: 20px;
+	color: #7d7d7d;
+}
+.center-intro h4 {
+
+}
+.cv {
+	opacity: .5;
+	background-color: #f7f7f7;
+	width: 25%;
+	height: 450px;
+	display: inline-block;
+	float: left;
+}
+.cv p {
+	color: #3d6f88;
+	font-size: 20px;
+}
+.cv>div {
+	padding-top: 5px;
+	padding-left: 5px;
+}
+.cv>div .cv-data {
+	display: inline-block;
+	margin-top: 5px;
+	clear: both;
+	float: left;
+}
+.cv>div img {
+	width: 90%;
+	height: 200px;
+	border-radius: 50%;
+}
+.cv>div .icone {
+	clear: both;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	float: left;
+}
+.cv>div span {
+	padding-top: 5px;
+	padding-left: 3px;
+	color: #8c8c00;
+	display: inline-block;
+	float: left;
+}
+.cv:hover {
+	opacity: 1;
+	background-color: #ebefba;
+}
+
+/*	Eslam	End About*/
+
+/* Eslam	Start Login page*/
+#content-of-login {
+	padding-top: 50px;
+}
+
+#content-of-login .sign-up , #content-of-login .login {
+	float: left;
+	display: inline-block;
+	opacity: .5;
+}
+#content-of-login .sign-up:hover , #content-of-login .login:hover {
+	opacity: 1;
+	
+}
+#content-of-login .sign-up {
+	width: 60%;
+}
+#content-of-login .login {
+	width: 40%;
+}
+#content-of-login center {
+	margin: 20px;
+}
+#content-of-login img.icone {
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+#content-of-login p {
+	display: inline-block;
+}
+#content-of-login .face {
+	border: 1px solid blue;
+	background-color: #7b7bda;
+	padding: 0px;
+	border-radius: 5px;
+	cursor: pointer;
+	padding: 5px;
+}
+#content-of-login .face img.icone {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	float: left;
+}
+#content-of-login .face p {
+	display: inline-block;
+	float: left;
+	margin: 0px;
+	font-size: 25px;
+}
+#content-of-login span {
+	display: inline-block;
+	margin-right: 30px;
+	padding: 5px;
+}
+#content-of-login .google {
+	background-color: #ea1f1f;
+	border: 1px solid red;
+	padding: 0px;
+	border-radius: 5px;
+	cursor: pointer;
+	padding: 5px;
+}
+#content-of-login .google p {
+	display: inline-block;
+	float: left;
+	margin: 0px;
+	font-size: 25px;
+}
+#content-of-login .google img.icone {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	float: left;
+}
+#content-of-login .sign-up div {
+	margin: 5px;
+	margin-left: 10px;
+}
+#content-of-login .sign-up div input {
+	padding: 10px;
+	font-size: 20px;
+	border: 1px solid yellow;
+	border-radius: 5px;
+	margin: 5px;
+	width: 60%;
+}
+#content-of-login form>input {
+	display: inline-block;
+	width: 60%;
+	padding: 10px;
+	margin: 5px 0px 5px 70px;
+	background-color: #ffffff;
+	box-shadow: 0px 8px 18px 0px;
+	border-radius: 8px;
+	color: #52ff52;
+	font-size: 20px;
+	cursor: pointer;
+}
+#content-of-login p.title {
+	display: inline-block;
+	/*width: 150px;*/
+	padding: 10px;
+	font-size: 25px;
+	margin: 25px 35%;
+	box-shadow: 0px 8px 18px 0px;
+	color: #52ff52;
+	background-color: #ffffff;
+
+}
+#content-of-login .sign-up:hover {
+	background-color: #ebefba;
+}
+/* Eslam	End Login page*/
+#content-of-login .login div {
+	margin: 5px;
+	margin-left: 10px;
+}
+#content-of-login .login div input {
+	padding: 10px;
+	font-size: 20px;
+	border: 1px solid yellow;
+	border-radius: 5px;
+	margin: 5px;
+	width: 60%;
+}#content-of-login .login:hover {
+	background-color: #ebefba;
+}
+#content-of-login .login label {
+	font-size: 18px;
+	cursor: pointer;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: inline-block;
+}
+#content-of-login .login label+span {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	cursor: pointer;
+	float: right;	
+}
+#content-of-login .login .show {
+	clear: both;
+	width: 90%;
+	display: block;
+	margin-left: 0px;
+	padding-left: 0px;
+	margin: 10px;
+	margin-top: 0px;
+	padding: 5px;
+	font-size: 25px;
+	color: #acbbb1;
+
+}
+#content-of-login .login .show input {
+	width: 80%;
+
+}
+#content-of-login .login .show input[type="submit"] {
+	width: 80%;
+	background-color: #ffffff;
+	box-shadow: 0px 8px 18px 0px;
+	color: #52ff52;
+	cursor: pointer;
+}
+#content-of-login .login .hiden {
+	display:none;
+
+}
+#content-of-login .login .show:hover .hiden {
+	display: block; 
+}

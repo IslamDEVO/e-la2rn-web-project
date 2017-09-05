@@ -1,0 +1,10 @@
+.div_1 ,.div_2,.div_3,.div_4
+{
+	background-color: #ffffff;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+

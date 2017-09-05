@@ -1,0 +1,132 @@
+<?php require "header.php"; ?>
+
+    <div id="content">
+      <div id="left">
+        <h1>How to Start a Career in Information Technology</h1>
+        <p>
+              Information Technology is a fast-paced and exciting field that requires savvy with both computers and people. Its emphasis on networks of all kinds--from professional to electronic--means that the best professionals are good at thinking on their feet and open to learning new things. Whether you’re looking to make over your career or embark on your first IT job, you’ll go farthest if you play to your strengths, take time to get certified in the correct disciplines, and apply to companies with professional grace.
+      </p>
+      <h3>(1)</h3>
+      <b>Evaluate your existing degrees and certifications.</b>
+       A bachelor’s degree in IT is helpful for entry level jobs, but it’s not absolutely mandatory. Some employers will accept a bachelor’s degree in a related field (like computer science) or an unrelated field (like history). You might even be able to swing an entry-level position with no bachelor’s at all.[10] However, many if not most IT positions prefer some sort of higher educational experience.
+       <p></p><br>
+       <img src="resources/img/images.jpg" alt="Cinque Terre" width="100%" float="left">
+       <h3>(2)</h3>
+       <b>Review your self-taught skills.</b>
+        The more education you get in the field, the better your income will probably be in the long run.[11] Still, don’t discount the importance of skills you’ve learned outside the classroom.
+        Think about projects you’ve worked on (like designing a website or a game). What role did you play in them? Were your creative or organizational powers challenged?
+        Find out if any of these skills are certifiable. Certification is often as easy as paying a fee and taking a test; if you’re already so comfortable with something that you feel confident about taking an exam in it, go ahead and get certified.
+        <p></p><br>
+        <img src="resources/img/images2.jpg" alt="Cinque Terre" width="100%" float="left">
+       <h3>(3)</h3>
+       <b>Identify your availability.</b>
+         Are you just starting undergrad, or are you a stay-at-home parent? The amount of time you have to devote to your IT training and education will shape what you are able to do. However, if you’re not able to set aside 40 hours a week to learn about IT, don’t despair; remote and part-time opportunities may be just what you need.[12]
+        <p></p><br>
+        <img src="resources/img/images3.jpg" alt="Cinque Terre" width="100%" float="left">
+       <h3>(4)</h3>
+       <b>Search for educational opportunities.</b>
+          Based on your desired career path, current educational and professional experience, and amount of free time, look into different schools to figure out which suits you best. Don’t forget to determine what the entry requirements are for each field of study.
+          <ul>
+          <li>Make a spreadsheet to keep you on track. Include time commitment, commute, and financial aid, as well as certification.[13]</li>
+          <li>Don’t go into unmanageable debt for a higher-education degree. Reputable online programs, trade schools, and financial aid can help you manage the cost of your schooling</li>
+          <li>Know that there is no single educational path to an IT career. It's a broad field, and your education may take anywhere from a few months to four years to complete. For instance, to be a systems analyst, you may need a bachelor's degree, but for help desk work, you may only need experience or an associate's degree.[14]</li>
+
+
+          </ul>
+        <p></p><br>
+        <img src="resources/img/images4.jpg" alt="Cinque Terre" width="100%" float="left">
+       <h3>(5)</h3>
+       <b>Look into professional certifications.</b>
+         
+        Even without a college degree, an MCSE or A+ certification can gain you significant credibility. For most certifications, you'll study and review a certain narrow subject, then sign up for an online exam. There is usually a fee, but the exams are often quick and can be done in your home.[15]
+        <ul>
+        <li>
+          Figure out the best certifications by researching which ones are popular in your country and field, and stay updated! As you might expect in a tech field, certifications emerge, update, and become obsolete every year.
+        </li>
+        <li>
+          Consider getting certified in a popular programming language, like Java.[16]
+        </li>
+        <li>
+           Information Technology Infrastructure Library certification has been around since the 80s (with updates, of course). It's one of the most broadly applicable certifications around, so it's good for generalists.[17]
+        </li>
+        <li>
+           Database certification will also serve you well, since all sorts of businesses use them to organize their information. Oracle offers several database certifications at different levels.[18]
+        </li>
+        <li>
+           Don’t assume your educational degree will be enough. Certifications can net you an 8-16% pay increase. Not only that, but they make you look committed to learning and growth, which is attractive to employers.[19]
+
+        </li>
+        </ul>
+        <p></p><br>
+        <img src="resources/img/images5.jpg" alt="Cinque Terre" width="100%" float="left">
+       <h3>(6)</h3>
+       <b>Get an internship in a reputable IT department.</b>
+          Good grades are nice, but work experience is even better. If you get a feel for what it’s like to work for a reputable company, you’ll build a network and learn a great deal about IT workplace norms. Also, many of IT internships are paid, which is a nice bonus.
+          Talk to professors or professional acquaintances to make internship connections.[20]
+          Make your resume as great as possible. Even if you don’t have a ton of work experience, a clearly-written and focused resume which highlights your strengths can help you snag that internship.[21]
+          Apply for internships at a range of companies, from tiny to well-known. You might be intimidated by the idea of interning at Google, but remember that someone has to fill the internship spots there. Why shouldn’t that person be you?
+          <img src="images/7.jpg" alt="Cinque Terre" width="100%" float="left">
+        <p></p><br>
+      </div>
+      <div id="right">
+        
+        <div >
+          <div class="list-group">
+            <a href="#" class="list-group-item active">Sites Toutorials</a>
+            <a href="https://www.w3schools.com/" class="list-group-item">W3Schools</a>
+            <a href="https://www.udemy.com" class="list-group-item">Udemy</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+          </div>
+        </div>
+        <div >
+          <div class="list-group">
+            <a href="#" class="list-group-item active">Sites Toutorials</a>
+            <a href="https://www.w3schools.com/" class="list-group-item">W3Schools</a>
+            <a href="https://www.udemy.com" class="list-group-item">Udemy</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+          </div>
+        </div>
+        <div >
+          <div class="list-group">
+            <a href="#" class="list-group-item active">HTML Toutorials</a>
+            <a href="https://www.w3schools.com/" class="list-group-item">W3Schools</a>
+            <a href="https://www.udemy.com" class="list-group-item">Udemy</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+          </div>
+        </div>
+        <div >
+          <div class="list-group">
+            <a href="#" class="list-group-item active">Css Toutorials</a>
+            <a href="https://www.w3schools.com/" class="list-group-item">W3Schools</a>
+            <a href="https://www.udemy.com" class="list-group-item">Udemy</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<?php require "footer.php"; ?>

@@ -1,0 +1,152 @@
+body 
+{
+    background-color: #efe8e8;
+}
+#container {
+    width: 960px;
+    margin: 10px auto;
+    background-color: #ffffff;
+}
+#header {
+    height: 300px;
+}
+#header #header-img {
+    height: 100%;
+    background-image: url("../img/cover-page.png");
+    background-repeat: no-repeat;
+    background-size: 960px 300px;
+}
+#header #navigation-bar {
+    width: 960px;
+    height: 50px;
+    background-color: #fffdfd;
+    position: fixed;
+    overflow: hidden;
+    top: 10px;
+    z-index: 10;
+}
+.hleft
+{
+    float: left;
+}
+.hright
+{
+    float: right;
+}
+h1
+{
+	text-align: center;
+}
+p
+{
+  margin-bottom: 15px;
+  font-size: 16px;
+  font-weight: 200;
+  margin: 0 auto;
+  font-family: serif;
+  margin-left: 5%;
+	width: 90%;
+}
+#content img 
+{
+	margin-left: 5%;
+	width: 90%;
+}
+.mar
+{
+	margin-left: 10%;
+	width: 80%;
+	font-size: 16px;
+}
+.Main_p
+{
+	font-size: 40px;
+	margin-left: 50px;
+}
+.btn {
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 0;
+  margin-left: 20px;
+  font-size: 20px;
+  
+}
+a {
+  text-decoration: none;
+  color: #2f2f2f;
+}
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+a {
+  background-color: transparent;
+}
+a:-webkit-any-link {
+  color: -webkit-link;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#footer {
+    clear: both;
+    height: 300px;
+    padding-top: 20px;
+}
+#footer .footer-info {
+    height: 80%;
+    background-color: #d0cece;
+}
+#footer .footer-copyright {
+    height: 20%;
+    background-color: #848181;
+}
+#footer .footer-info .about-us, #footer .footer-info .our-service, #footer .footer-info .contact-info {
+    width: 30%;
+    margin: 0px;
+    margin-left: 20px;
+    padding: 0px;
+    float: left;
+    height: 100%;
+}
+#footer .footer-info .about-us h3, #footer .footer-info .our-service h3, #footer .footer-info .contact-info h3 {
+    margin: 20px;
+    display: inline-block;
+    border-bottom: 1px solid #1d1313;
+}
+#footer .footer-info .about-us span.title
+ {
+    font-size: 20px;
+}
+#footer .footer-info .our-service span.service
+ {
+    font-size: 20px;
+}
+#footer .footer-info .contact-info 
+ {
+    font-size: 18px;
+}
+
+span#container-of-menu ul {
+    margin: 0px;
+    padding: 0px;
+}
+span#container-of-menu ul li {
+    display: inline-block;
+    padding: 16px;
+    background-color: #ecebeb;
+    border-radius: 10px;
+}
+span#container-of-menu ul>li>a {
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    color: #5d5151;
+}
+span#container-of-menu {
+    height: 100%;
+    float: right;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+}

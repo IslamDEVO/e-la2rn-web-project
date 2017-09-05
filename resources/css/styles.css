@@ -1,0 +1,204 @@
+body 
+{
+    background-color: #efe8e8;
+}
+#container {
+    width: 960px;
+    margin: 10px auto;
+    background-color: #ffffff;
+}
+#header {
+    height: 300px;
+}
+#header #header-img {
+    height: 100%;
+    background-image: url("../img/cover-page.png");
+    background-repeat: no-repeat;
+    background-size: 960px 300px;
+}
+#header #navigation-bar {
+    width: 960px;
+    height: 50px;
+    background-color: #fffdfd;
+    position: fixed;
+    overflow: hidden;
+    top: 10px;
+    z-index: 10;
+}
+.hleft
+{
+    float: left;
+}
+.hright
+{
+    float: right;
+}
+h1,h2
+{
+    text-align: center;
+}
+.content .img{
+     background: url("../images/7.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 450px;
+    text-align:  center
+    }
+.content .img h1{color: #ddd;line-height: 100px;}
+.content .img button{padding: 20px;border: none;background: none;border:2px solid #ddd;color: #fff;font-weight: bold;}
+.content .img button:hover{background: red;color: #fff}
+
+#content .info {
+    float: left;
+    width: 290px;
+    padding: 10px;
+    text-align: center;
+    opacity: .3;
+}
+#content .info:hover {
+    opacity: 1;
+}
+#content .info h3{
+    /*font-family: fantasy*/
+}
+#content .info input , #Service button
+{padding: 10px;margin: 10px;background: none;
+border-bottom: 5px solid #790606;
+color: #2c2c33;
+font-weight: bold
+border-radius: 5px;
+box-shadow: 0px 8px 18px 0px;
+}
+#content .info input:hover{
+    background: #85b981;
+    color: #ec1818;
+}
+#Service{text-align: center}
+#Service img{border-radius: 10px;}
+#Service a{text-decoration: none;border:2px solid  #2c2c33;margin:80px;padding: 3px;}
+#Service button:hover{
+    background: #8ab16d;
+    color: #fff;
+    box-shadow: 0px 8px 18px green ;
+}
+#fir_Services3
+{
+    height: 230px;
+     
+}
+#sec_Services3
+{
+    height: 230px;
+    
+}
+.servleft , .servright , .servcenter
+{
+    width: 300px;
+    margin: 10px;
+    float: left;
+    opacity: .5;
+}
+.servleft:hover, .servright:hover , .servcenter:hover {
+    opacity: 1;
+}
+.img_center
+{
+    width: 930px;
+    margin-left: 10px ;
+}
+#info
+{
+    height: 250px;
+    background-color: #eae5a7; 
+}
+.infoleft , .inforight , .infocenter
+{
+    width: 300px;
+    margin: 10px;
+    float: left;
+}
+#fir_Services3
+{
+    height: 230px;
+     
+}
+#sec_Services3
+{
+    height: 230px;
+    
+}
+.servleft , .servright , .servcenter
+{
+    width: 300px;
+    margin: 10px;
+    float: left;
+}
+#footer {
+    clear: both;
+    height: 300px;
+    padding-top: 20px;
+}
+#footer .footer-info {
+    height: 80%;
+    background-color: #d0cece;
+}
+#footer .footer-copyright {
+    height: 20%;
+    background-color: #848181;
+}
+#footer .footer-info .about-us, #footer .footer-info .our-service, #footer .footer-info .contact-info {
+    width: 30%;
+    margin: 0px;
+    margin-left: 20px;
+    padding: 0px;
+    float: left;
+    height: 100%;
+}
+#footer .footer-info .about-us h3, #footer .footer-info .our-service h3, #footer .footer-info .contact-info h3 {
+    margin: 20px;
+    display: inline-block;
+    border-bottom: 1px solid #1d1313;
+}
+#footer .footer-info .about-us span.title
+ {
+    font-size: 20px;
+}
+#footer .footer-info .our-service span.service
+ {
+    font-size: 20px;
+}
+#footer .footer-info .contact-info 
+ {
+    font-size: 18px;
+}
+p
+{
+    display: inline;
+}
+/*  Eslam   Start Menu  */
+span#container-of-menu ul {
+    margin: 0px;
+    padding: 0px;
+}
+span#container-of-menu ul li {
+    display: inline-block;
+    padding: 16px;
+    background-color: #ecebeb;
+    border-radius: 10px;
+}
+span#container-of-menu ul>li>a {
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    color: #5d5151;
+}
+span#container-of-menu {
+    height: 100%;
+    float: right;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+}
+/*  Eslam   End Menu*/
